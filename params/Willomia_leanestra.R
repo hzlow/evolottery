@@ -10,6 +10,6 @@ sig2 <- 1.61803398875
 species.name <- "Willomia leanestra"
     
 # e.g. "red"    
-color <- "blue"
+color <- "green"
     
 # For list of colours available in R, see http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
